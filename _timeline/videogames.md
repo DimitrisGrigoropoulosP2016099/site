@@ -15,5 +15,5 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
-  - doom-1
+  - doom1
 ---
