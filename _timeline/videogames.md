@@ -16,4 +16,5 @@ events:
   - math-blaster
   - minecraft-end-user
   - doom1
+  - Space-Travel
 ---
