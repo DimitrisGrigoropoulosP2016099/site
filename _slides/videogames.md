@@ -14,6 +14,5 @@ slides:
   - math-blaster
   - minecraft-end-user
   - doom1
-  - SpaceTravel
-  - bob
+  - SpaceTravel1969
 ---
