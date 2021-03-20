@@ -15,4 +15,5 @@ slides:
   - minecraft-end-user
   - doom1
   - SpaceTravel
+  - bob
 ---
