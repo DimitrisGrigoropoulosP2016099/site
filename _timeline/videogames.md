@@ -17,4 +17,5 @@ events:
   - minecraft-end-user
   - doom1
   - SpaceTravel
+  - Space
 ---
