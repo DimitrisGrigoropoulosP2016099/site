@@ -8,8 +8,8 @@
 	branch = 2016099
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/pibook/extras.git
-	branch = master
+	url = https://github.com/DimitrisGrigoropoulosP2016099/extras.git
+	branch = 2016099
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/pibook/_quotes.git
@@ -20,5 +20,5 @@
 	branch = master
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
-	branch = master
+	url = https://github.com/DimitrisGrigoropoulosP2016099/bibliography.git
+	branch = 2016099
